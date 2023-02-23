@@ -1,0 +1,22 @@
+@mixin font($weight,$size:'inherit',$line_height:'inherit',$size_mb:'inherit',$line_height_mb:'inherit',$letter_spacing:0) {
+    font-weight: $weight;
+    font-size: dp($size);
+    line-height: dp($line_height);
+    letter-spacing: $letter_spacing;
+    @media screen and (max-width: 767px) {
+        @if $size_mb{
+            font-size: mb($size_mb);
+        }@else{
+            font-size: mb($size);
+        }
+        @if $line_height_mb{
+            line-height: mb($line_height_mb);
+        }@else{
+            line-height: mb($line_height);
+        }
+    }
+    @media screen and (min-width: 1440px){
+        font-size: tv($size);
+        line-height: tv($line_height);
+    }
+}

@@ -1,0 +1,13 @@
+@mixin param($param,$value,$value_mb:0){
+    #{$param}:dp($value);
+    @media screen and (max-width: 767px) {
+        @if $value_mb{
+            #{$param}:mb($value_mb);
+        }@else{
+            #{$param}:mb($value);
+        }
+    }
+    @media screen and (min-width: 1440px){
+        #{$param}:tv($value);
+    }
+}

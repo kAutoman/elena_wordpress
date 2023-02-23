@@ -1,0 +1,112 @@
+
+20-11-2022 13:43:51 [wordpress-540472-3025773.cloudwaysapps.com][info] Parent plugin start installation!
+20-11-2022 13:43:51 [wordpress-540472-3025773.cloudwaysapps.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.8
+20-11-2022 13:43:52 [wordpress-540472-3025773.cloudwaysapps.com][info] Successfully fix collation for plugin table.
+WP COLLATION: utf8mb4_unicode_ci | PLUGIN COLLATION: utf8mb4_unicode_520_ci
+20-11-2022 13:43:52 [wordpress-540472-3025773.cloudwaysapps.com][info] Parent plugin installation complete!
+-------------------------------
+20-11-2022 13:43:58 [wordpress-540472-3025773.cloudwaysapps.com][info] Try to create backup directory. Backup dir: (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/wio_backup)
+-------------------------------
+20-11-2022 15:08:14 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 17
+20-11-2022 15:08:14 [wordpress-540472-3025773.cloudwaysapps.com][warning] This format is disabled in the plugin settings: image/svg+xml
+20-11-2022 15:08:14 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 17
+-------------------------------
+20-11-2022 15:17:51 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 22
+20-11-2022 15:17:51 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/1.png) to a remote server (server_1).
+20-11-2022 15:17:51 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:17:51 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/1-150x150.png) to a remote server (server_1).
+20-11-2022 15:17:51 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:17:51 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #1, attributes values: {"server_id":null,"object_id":22,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":25457,"final_size":11502,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":10581,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1668957471}
+20-11-2022 15:17:51 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 22
+-------------------------------
+20-11-2022 15:18:01 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 23
+20-11-2022 15:18:01 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/2.png) to a remote server (server_1).
+20-11-2022 15:18:02 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:02 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/2-150x150.png) to a remote server (server_1).
+20-11-2022 15:18:02 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:02 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #2, attributes values: {"server_id":null,"object_id":23,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":20421,"final_size":9687,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":8892,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1668957482}
+20-11-2022 15:18:02 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 23
+-------------------------------
+20-11-2022 15:18:08 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 24
+20-11-2022 15:18:08 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/3.png) to a remote server (server_1).
+20-11-2022 15:18:08 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:09 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/3-150x150.png) to a remote server (server_1).
+20-11-2022 15:18:09 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:09 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #3, attributes values: {"server_id":null,"object_id":24,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":22367,"final_size":10328,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":9805,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1668957489}
+20-11-2022 15:18:09 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 24
+-------------------------------
+20-11-2022 15:18:29 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 27
+20-11-2022 15:18:29 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/6.png) to a remote server (server_1).
+20-11-2022 15:18:29 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:29 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/6-150x150.png) to a remote server (server_1).
+20-11-2022 15:18:29 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:29 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #4, attributes values: {"server_id":null,"object_id":27,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":24823,"final_size":11279,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":10544,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1668957509}
+20-11-2022 15:18:29 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 27
+-------------------------------
+20-11-2022 15:18:35 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 28
+20-11-2022 15:18:35 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/7.png) to a remote server (server_1).
+20-11-2022 15:18:35 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:35 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/7-150x150.png) to a remote server (server_1).
+20-11-2022 15:18:36 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:36 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #5, attributes values: {"server_id":null,"object_id":28,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":19967,"final_size":9447,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":8545,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1668957516}
+20-11-2022 15:18:36 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 28
+-------------------------------
+20-11-2022 15:18:54 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 31
+20-11-2022 15:18:54 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/10.png) to a remote server (server_1).
+20-11-2022 15:18:54 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:54 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/10-150x150.png) to a remote server (server_1).
+20-11-2022 15:18:54 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:18:54 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #6, attributes values: {"server_id":null,"object_id":31,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":26703,"final_size":12051,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":11113,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1668957534}
+20-11-2022 15:18:54 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 31
+-------------------------------
+20-11-2022 15:19:03 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 32
+20-11-2022 15:19:03 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/11.png) to a remote server (server_1).
+20-11-2022 15:19:03 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:19:03 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/11-150x150.png) to a remote server (server_1).
+20-11-2022 15:19:03 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:19:03 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #7, attributes values: {"server_id":null,"object_id":32,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":20623,"final_size":9604,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":8801,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1668957543}
+20-11-2022 15:19:03 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 32
+-------------------------------
+20-11-2022 15:19:11 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 33
+20-11-2022 15:19:11 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/12.png) to a remote server (server_1).
+20-11-2022 15:19:11 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:19:11 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/12-150x150.png) to a remote server (server_1).
+20-11-2022 15:19:11 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+20-11-2022 15:19:11 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #8, attributes values: {"server_id":null,"object_id":33,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":21183,"final_size":9680,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":9308,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1668957551}
+20-11-2022 15:19:11 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 33
+-------------------------------
+21-11-2022 05:39:41 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 64
+21-11-2022 05:39:41 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/male.png) to a remote server (server_1).
+21-11-2022 05:39:41 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+21-11-2022 05:39:42 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/male-150x150.png) to a remote server (server_1).
+21-11-2022 05:39:42 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+21-11-2022 05:39:42 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/male-300x255.png) to a remote server (server_1).
+21-11-2022 05:39:42 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+21-11-2022 05:39:42 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #9, attributes values: {"server_id":null,"object_id":64,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":74940,"final_size":29462,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":35666,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1669009182}
+21-11-2022 05:39:42 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 64
+-------------------------------
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 65
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/female.png) to a remote server (server_1).
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/female-150x150.png) to a remote server (server_1).
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/female-300x256.png) to a remote server (server_1).
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #10, attributes values: {"server_id":null,"object_id":65,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":75515,"final_size":29248,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":35579,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1669009234}
+21-11-2022 05:40:34 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 65
+-------------------------------
+23-11-2022 05:31:02 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 87
+23-11-2022 05:31:02 [wordpress-540472-3025773.cloudwaysapps.com][warning] This format is disabled in the plugin settings: image/svg+xml
+23-11-2022 05:31:02 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 87
+-------------------------------
+23-11-2022 05:32:50 [wordpress-540472-3025773.cloudwaysapps.com][info] START auto optimize cron job. Attachment: 88
+23-11-2022 05:32:50 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/img_11.jpg) to a remote server (server_1).
+23-11-2022 05:32:50 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+23-11-2022 05:32:50 [wordpress-540472-3025773.cloudwaysapps.com][info] Preparing to upload a file (/home/540472.cloudwaysapps.com/fwbtehdjwb/public_html/wp-content/uploads/2022/11/img_11-150x150.jpg) to a remote server (server_1).
+23-11-2022 05:32:50 [wordpress-540472-3025773.cloudwaysapps.com][info] File successfully uploaded to remote server (server_1).
+23-11-2022 05:32:50 [wordpress-540472-3025773.cloudwaysapps.com][debug] New queue created #11, attributes values: {"server_id":null,"object_id":88,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":92617,"final_size":26143,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":84435,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1669181570}
+23-11-2022 05:32:50 [wordpress-540472-3025773.cloudwaysapps.com][info] END auto optimize cron job. Attachment: 88
+-------------------------------

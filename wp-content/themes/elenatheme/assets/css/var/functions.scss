@@ -1,0 +1,12 @@
+@function mb($val) {
+    @return ($val/3.93)*1vw;
+}
+@function dp($val) {
+    @return ($val/14.4)*1vw;
+} 
+@function tv($val) {
+    @return $val*1px;
+} 
+
+
+
